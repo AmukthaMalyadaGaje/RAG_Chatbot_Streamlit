@@ -12,3 +12,7 @@ python-magic==0.4.27 ; sys_platform != 'win32'
 pypdf==4.0.2
 tiktoken==0.6.0
 Pillow>=10.0.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.18.0
+rich==13.7.1
